@@ -26,9 +26,31 @@
 </body>
 <style>
     .custom-login{
-        height: 660px;
+        height: 500px;
         padding-top: 100px;
     
+    }
+    img.slider-img{
+        height: 400px; !important
+    }
+    .costom-product{
+        height: 600px;
+    }
+    .slider-text{
+        background-color: darkcyan; !important
+    }
+    .trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 20%;
+    }
+    .trending-item{
+        margin: 30px;
+    }
+    .search-form{
+        width: 500px; !important
     }
 </style>
 </html>
